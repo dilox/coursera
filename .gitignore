@@ -219,4 +219,4 @@ pip-log.txt
 #####################
 ## Jupyter notebook
 #####################
-.ipynb_checkpoints
+.ipynb_checkpoints/
